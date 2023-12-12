@@ -1,0 +1,301 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40"><head><!--[if gte mso 9]><xml><x:ExcelWorkbook><x:ExcelWorksheets><x:ExcelWorksheet><x:Name>W3C Example Table</x:Name><x:WorksheetOptions><x:DisplayGridlines/></x:WorksheetOptions></x:ExcelWorksheet></x:ExcelWorksheets></x:ExcelWorkbook></xml><![endif]--></head><body><table>
+                    <tbody><tr>
+                        <th style="text-align:center;">Keterangan</th>
+                        <th colspan="4" style="text-align:center;">Realisasi </th>
+                        <th colspan="2" style="text-align:center;">RKAT</th>
+                    </tr>
+
+                    <tr>
+                        <td></td>
+                        <td style="font-size: 10px;"><b>12 Desember 2023</b></td>
+                        <td style="font-size: 10px;"><b>31 Desember 2021</b></td>
+                        <td style="font-size: 10px;"><b>31 Desember 2020</b></td>
+                        <td style="font-size: 10px;"><b>31 Desember 2019</b></td>
+
+
+                        <td style="font-size: 10px;"><b>31 Desember 2023</b></td>
+                        <td style="font-size: 10px;"><b>31 Desember 2022</b></td>
+                    </tr>
+
+                    <tr>
+                        <td></td>
+                        <td style="font-size: 10px;"><b>OJK PUBLIKASI</b></td>
+                        <td style="font-size: 10px;"><b>AUDIT</b></td>
+                        <td style="font-size: 10px;"><b>AUDIT</b></td>
+                        <td style="font-size: 10px;"><b>AUDIT<b></b></b></td>
+
+                        <td style="font-size: 10px;"><b>DISAMPAIKAN KE OJK</b></td>
+                        <td style="font-size: 10px;"><b>DISAMPAIKAN KE OJK</b></td>
+                    </tr>
+
+                                        <tr>
+                                                <td style="font-size: 10px;">Asset</td>
+                                                <td style="text-align:right; font-size: 9px;">0</td>
+                        <td style="text-align:right; font-size: 9px;">1.609.000.000</td>
+                        <td style="text-align:right; font-size: 9px;">1.539.000.000</td>
+
+                        <td style="text-align:right; font-size: 9px;">1.400.000.000</td>
+                        <td style="text-align:right; font-size: 9px;">1.649.993.000</td>
+                        <td style="text-align:right; font-size: 9px;">1.722.582.000</td>
+                    </tr>
+                                        <tr>
+                                                <td style="font-size: 10px;">Penempatan pada Bank Lain</td>
+                                                <td style="text-align:right; font-size: 9px;">0</td>
+                        <td style="text-align:right; font-size: 9px;">215.800.000</td>
+                        <td style="text-align:right; font-size: 9px;">133.581.000</td>
+
+                        <td style="text-align:right; font-size: 9px;">147.000.000</td>
+                        <td style="text-align:right; font-size: 9px;">205.254.000</td>
+                        <td style="text-align:right; font-size: 9px;">209.704.000</td>
+                    </tr>
+                                        <tr>
+                                                <td style="font-size: 10px;">Pembiayaan yang diberikan</td>
+                                                <td style="text-align:right; font-size: 9px;">0</td>
+                        <td style="text-align:right; font-size: 9px;">1.334.300.000</td>
+                        <td style="text-align:right; font-size: 9px;">1.335.548.000</td>
+
+                        <td style="text-align:right; font-size: 9px;">1.188.000.000</td>
+                        <td style="text-align:right; font-size: 9px;">1.385.660.000</td>
+                        <td style="text-align:right; font-size: 9px;">1.457.000.000</td>
+                    </tr>
+                                        <tr>
+                                                <td style="font-size: 10px;">Pembiayaan yang diberikan bermasalah</td>
+                                                <td style="text-align:right; font-size: 9px;">0</td>
+                        <td style="text-align:right; font-size: 9px;">31.600.000</td>
+                        <td style="text-align:right; font-size: 9px;">11.719.000</td>
+
+                        <td style="text-align:right; font-size: 9px;">10.300.000</td>
+                        <td style="text-align:right; font-size: 9px;">0</td>
+                        <td style="text-align:right; font-size: 9px;">0</td>
+                    </tr>
+                                        <tr>
+                                                <td style="font-size: 10px;">Dana pihak ketiga</td>
+                                                <td style="text-align:right; font-size: 9px;">0</td>
+                        <td style="text-align:right; font-size: 9px;">1.060.369.000</td>
+                        <td style="text-align:right; font-size: 9px;">967.360.000</td>
+
+                        <td style="text-align:right; font-size: 9px;">864.500.000</td>
+                        <td style="text-align:right; font-size: 9px;">1.126.909.000</td>
+                        <td style="text-align:right; font-size: 9px;">1.190.964.000</td>
+                    </tr>
+                                        <tr>
+                                                <td style="font-size: 10px;">Tabungan</td>
+                                                <td style="text-align:right; font-size: 9px;">0</td>
+                        <td style="text-align:right; font-size: 9px;">147.500.000</td>
+                        <td style="text-align:right; font-size: 9px;">136.314.000</td>
+
+                        <td style="text-align:right; font-size: 9px;">148.400.000</td>
+                        <td style="text-align:right; font-size: 9px;">142.632.000</td>
+                        <td style="text-align:right; font-size: 9px;">1.043.098.000</td>
+                    </tr>
+                                        <tr>
+                                                <td style="font-size: 10px;">Deposito</td>
+                                                <td style="text-align:right; font-size: 9px;">0</td>
+                        <td style="text-align:right; font-size: 9px;">912.868.000</td>
+                        <td style="text-align:right; font-size: 9px;">831.046.000</td>
+
+                        <td style="text-align:right; font-size: 9px;">716.067.000</td>
+                        <td style="text-align:right; font-size: 9px;">984.275.000</td>
+                        <td style="text-align:right; font-size: 9px;">147.866.000</td>
+                    </tr>
+                                        <tr>
+                                                <td style="font-size: 10px;">Pinjaman Diterima</td>
+                                                <td style="text-align:right; font-size: 9px;">0</td>
+                        <td style="text-align:right; font-size: 9px;">150.160.000</td>
+                        <td style="text-align:right; font-size: 9px;">182.772.000</td>
+
+                        <td style="text-align:right; font-size: 9px;">155.925.000</td>
+                        <td style="text-align:right; font-size: 9px;">95.899.000</td>
+                        <td style="text-align:right; font-size: 9px;">73.106.000</td>
+                    </tr>
+                                        <tr>
+                                                <td style="font-size: 10px;">Modal Disetor</td>
+                                                <td style="text-align:right; font-size: 9px;">0</td>
+                        <td style="text-align:right; font-size: 9px;">250.000.000</td>
+                        <td style="text-align:right; font-size: 9px;">250.000.000</td>
+
+                        <td style="text-align:right; font-size: 9px;">200.000.000</td>
+                        <td style="text-align:right; font-size: 9px;">250.000.000</td>
+                        <td style="text-align:right; font-size: 9px;">250.000.000</td>
+                    </tr>
+                                        <tr>
+                                                <td style="font-size: 10px;">Laba Ditahan</td>
+                                                <td style="text-align:right; font-size: 9px;">0</td>
+                        <td style="text-align:right; font-size: 9px;">24.797.000</td>
+                        <td style="text-align:right; font-size: 9px;">14.873.000</td>
+
+                        <td style="text-align:right; font-size: 9px;">67.800.000</td>
+                        <td style="text-align:right; font-size: 9px;">44.934.000</td>
+                        <td style="text-align:right; font-size: 9px;">68.270.000</td>
+                    </tr>
+                                        <tr>
+                                                <td style="font-size: 10px;">Laba Tahun Berjalan</td>
+                                                <td style="text-align:right; font-size: 9px;">0</td>
+                        <td style="text-align:right; font-size: 9px;">39.968.000</td>
+                        <td style="text-align:right; font-size: 9px;">48.843.000</td>
+
+                        <td style="text-align:right; font-size: 9px;">53.189.000</td>
+                        <td style="text-align:right; font-size: 9px;">46.672.000</td>
+                        <td style="text-align:right; font-size: 9px;">49.503.000</td>
+                    </tr>
+                                        <tr>
+                                                <td style="font-size: 10px;">EBIT (Earning Before Interest &amp; Tax)</td>
+                                                <td style="text-align:right; font-size: 9px;">0</td>
+                        <td style="text-align:right; font-size: 9px;">161.196.000</td>
+                        <td style="text-align:right; font-size: 9px;">179.881.000</td>
+
+                        <td style="text-align:right; font-size: 9px;">182.707.000</td>
+                        <td style="text-align:right; font-size: 9px;">178.467.000</td>
+                        <td style="text-align:right; font-size: 9px;">188.833.000</td>
+                    </tr>
+                                        <tr>
+                                                <td style="font-size:10px;">EBITDA <br>(Earning Before Interest &amp; Tax, Depreciation &amp; Amortisation)</td>
+                                                <td style="text-align:right; font-size: 9px;">0</td>
+                        <td style="text-align:right; font-size: 9px;">165.864.000</td>
+                        <td style="text-align:right; font-size: 9px;">184.760.000</td>
+
+                        <td style="text-align:right; font-size: 9px;">186.502.000</td>
+                        <td style="text-align:right; font-size: 9px;">178.467.000</td>
+                        <td style="text-align:right; font-size: 9px;">188.833.000</td>
+                    </tr>
+                                        <tr>
+                                                <td style="font-size: 10px;">PPAP - Kredit yang diberikan</td>
+                                                <td style="text-align:right; font-size: 9px;">0</td>
+                        <td style="text-align:right; font-size: 9px;">19.111.000</td>
+                        <td style="text-align:right; font-size: 9px;">11.964.000</td>
+
+                        <td style="text-align:right; font-size: 9px;">10.161.000</td>
+                        <td style="text-align:right; font-size: 9px;">16.905.000</td>
+                        <td style="text-align:right; font-size: 9px;">14.983.000</td>
+                    </tr>
+                                        <tr>
+                                                <td style="font-size: 10px;">Pemulihan PPAP - Kredit yang diberikan</td>
+                                                <td style="text-align:right; font-size: 9px;">0</td>
+                        <td style="text-align:right; font-size: 9px;">8.671.000</td>
+                        <td style="text-align:right; font-size: 9px;">1.971.000</td>
+
+                        <td style="text-align:right; font-size: 9px;">670.000</td>
+                        <td style="text-align:right; font-size: 9px;">0</td>
+                        <td style="text-align:right; font-size: 9px;">0</td>
+                    </tr>
+                                        <tr>
+                                                <td style="font-size: 10px;">Penghapusan Kredit (WO) Tahun Berjalan</td>
+                                                <td style="text-align:right; font-size: 9px;">0</td>
+                        <td style="text-align:right; font-size: 9px;">1.029.000</td>
+                        <td style="text-align:right; font-size: 9px;">8.124.000</td>
+
+                        <td style="text-align:right; font-size: 9px;">7.002.000</td>
+                        <td style="text-align:right; font-size: 9px;">0</td>
+                        <td style="text-align:right; font-size: 9px;">0</td>
+                    </tr>
+                                        <tr>
+                                                <td style="font-size: 10px;">Pemulihan WO</td>
+                                                <td style="text-align:right; font-size: 9px;">0</td>
+                        <td style="text-align:right; font-size: 9px;">5.435.000</td>
+                        <td style="text-align:right; font-size: 9px;">5.151.000</td>
+
+                        <td style="text-align:right; font-size: 9px;">4.950.000</td>
+                        <td style="text-align:right; font-size: 9px;">0</td>
+                        <td style="text-align:right; font-size: 9px;">0</td>
+                    </tr>
+                                        <tr>
+                                                <td style="font-size: 10px;">Agunan Yang Diambil Alih (AYDA)</td>
+                                                <td style="text-align:right; font-size: 9px;">0</td>
+                        <td style="text-align:right; font-size: 9px;">1.472.000</td>
+                        <td style="text-align:right; font-size: 9px;">1.472.000</td>
+
+                        <td style="text-align:right; font-size: 9px;">1.472.000</td>
+                        <td style="text-align:right; font-size: 9px;">1.472.000</td>
+                        <td style="text-align:right; font-size: 9px;">0</td>
+                    </tr>
+                                        <tr>
+                                                <td style="font-size: 10px;">LDR</td>
+                                                <td style="text-align:right; font-size: 9px;">0</td>
+                        <td style="text-align:right; font-size: 9px;">90,06</td>
+                        <td style="text-align:right; font-size: 9px;">94,19</td>
+
+                        <td style="text-align:right; font-size: 9px;">95,84</td>
+                        <td style="text-align:right; font-size: 9px;">92,66</td>
+                        <td style="text-align:right; font-size: 9px;">94,61</td>
+                    </tr>
+                                        <tr>
+                                                <td style="font-size: 10px;">Alat Likuid/Hutang Lancar (Cash Ratio)</td>
+                                                <td style="text-align:right; font-size: 9px;">0</td>
+                        <td style="text-align:right; font-size: 9px;">21,69</td>
+                        <td style="text-align:right; font-size: 9px;">15,34</td>
+
+                        <td style="text-align:right; font-size: 9px;">18,66</td>
+                        <td style="text-align:right; font-size: 9px;">19,54</td>
+                        <td style="text-align:right; font-size: 9px;">18,91</td>
+                    </tr>
+                                        <tr>
+                                                <td style="font-size: 10px;">CAR</td>
+                                                <td style="text-align:right; font-size: 9px;">0</td>
+                        <td style="text-align:right; font-size: 9px;">26,58</td>
+                        <td style="text-align:right; font-size: 9px;">26,31</td>
+
+                        <td style="text-align:right; font-size: 9px;">24,13</td>
+                        <td style="text-align:right; font-size: 9px;">27,50</td>
+                        <td style="text-align:right; font-size: 9px;">25,09</td>
+                    </tr>
+                                        <tr>
+                                                <td style="font-size: 10px;">ROA (Laba sebelum pajak)</td>
+                                                <td style="text-align:right; font-size: 9px;">0</td>
+                        <td style="text-align:right; font-size: 9px;">3,22</td>
+                        <td style="text-align:right; font-size: 9px;">4,25</td>
+
+                        <td style="text-align:right; font-size: 9px;">5,04</td>
+                        <td style="text-align:right; font-size: 9px;">3,77</td>
+                        <td style="text-align:right; font-size: 9px;">3,83</td>
+                    </tr>
+                                        <tr>
+                                                <td style="font-size: 10px;">ROE</td>
+                                                <td style="text-align:right; font-size: 9px;">0</td>
+                        <td style="text-align:right; font-size: 9px;">14,20</td>
+                        <td style="text-align:right; font-size: 9px;">17,99</td>
+
+                        <td style="text-align:right; font-size: 9px;">19,65</td>
+                        <td style="text-align:right; font-size: 9px;">15,89</td>
+                        <td style="text-align:right; font-size: 9px;">15,80</td>
+                    </tr>
+                                        <tr>
+                                                <td style="font-size: 10px;">BOPO</td>
+                                                <td style="text-align:right; font-size: 9px;">0</td>
+                        <td style="text-align:right; font-size: 9px;">75,56</td>
+                        <td style="text-align:right; font-size: 9px;">69,74</td>
+
+                        <td style="text-align:right; font-size: 9px;">65,43</td>
+                        <td style="text-align:right; font-size: 9px;">71,50</td>
+                        <td style="text-align:right; font-size: 9px;">71,04</td>
+                    </tr>
+                                        <tr>
+                                                <td style="font-size: 10px;">Debt Equity Ratio (DER)</td>
+                                                <td style="text-align:right; font-size: 9px;">0</td>
+                        <td style="text-align:right; font-size: 9px;">3,41</td>
+                        <td style="text-align:right; font-size: 9px;">3,23</td>
+
+                        <td style="text-align:right; font-size: 9px;">2,90</td>
+                        <td style="text-align:right; font-size: 9px;">3,21</td>
+                        <td style="text-align:right; font-size: 9px;">3,12</td>
+                    </tr>
+                                        <tr>
+                                                <td style="font-size: 10px;">NPL Gross</td>
+                                                <td style="text-align:right; font-size: 9px;">0</td>
+                        <td style="text-align:right; font-size: 9px;">2,20</td>
+                        <td style="text-align:right; font-size: 9px;">0,85</td>
+
+                        <td style="text-align:right; font-size: 9px;">0,84</td>
+                        <td style="text-align:right; font-size: 9px;">1000000</td>
+                        <td style="text-align:right; font-size: 9px;">0</td>
+                    </tr>
+                                        <tr>
+                                                <td style="font-size: 10px;">NPL Nett</td>
+                                                <td style="text-align:right; font-size: 9px;">0</td>
+                        <td style="text-align:right; font-size: 9px;">0,94</td>
+                        <td style="text-align:right; font-size: 9px;">0,02</td>
+
+                        <td style="text-align:right; font-size: 9px;">0,01</td>
+                        <td style="text-align:right; font-size: 9px;">0</td>
+                        <td style="text-align:right; font-size: 9px;">0</td>
+                    </tr>
+                                    </tbody></table></body></html>
